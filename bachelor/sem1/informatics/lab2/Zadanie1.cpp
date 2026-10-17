@@ -6,7 +6,7 @@ int main(){
     sum = 0.0;
     int n=2;
     do { 
-        a = (double)n/((n-1)*(n-1));
+        a =(double)n/((n-1)*(n-1));
         sum +=a;
         n++;
     }while(fabs(a)>= 1e-4);

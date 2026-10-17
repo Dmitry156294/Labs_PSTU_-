@@ -7,7 +7,7 @@ int main(){
     a = 100.0;
     b = 0.001;
     p1=(a+b)*(a+b)*(a+b)*(a+b);
-    p2=a*a*a*a + 4*a*a*a*b + 6 * a*a*b*b ;
+    p2= a*a*a*a + 4*a*a*a*b + 6*a*a*b*b;
     p3=4*a*b*b*b;
     p4=b*b*b*b;
 
